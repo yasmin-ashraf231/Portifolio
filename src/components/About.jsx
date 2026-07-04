@@ -24,7 +24,7 @@ const About = () => {
             <div className="position-relative">
               <div className="glass-card p-2 rounded-4" style={{ transform: 'rotate(-3deg)' }}>
                 <img 
-                  src="/public/images/profile.png"
+                  src="/images/profile.png"
                   alt="Yasmin Ashraf" 
                   className="img-fluid rounded-4 w-100"
                 />
